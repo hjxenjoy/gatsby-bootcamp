@@ -95,3 +95,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## 🍩 Remark
+
+Learn from [Youtube freeCodeCamp.org Video](https://www.youtube.com/watch?v=kzWIUX3CpuI) by [Andrew Mead](https://github.com/andrewjmead)
